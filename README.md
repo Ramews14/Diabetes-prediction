@@ -46,7 +46,7 @@ The objective is to use machine learning to predict the likelihood of diabetes i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
+   git clone https://github.com/kaggle/diabetes-prediction.git
 
 2.Navigate into the project folder:
 
